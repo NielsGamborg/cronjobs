@@ -11,7 +11,7 @@ function sendmail() {
 
     let mailOptions = {
         from: '*****',
-        to: 'nillerpost@hotmail.com',
+        to: '*****',
         subject: 'Sending Email using Node.js',
         text: 'That was easy!'
     };
